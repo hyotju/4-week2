@@ -11,7 +11,7 @@ hateslop 4기 실습 1주차 폴더입니다.
 ## 저장소 구조
 
 ```
-week1/
+week2/
 ├── .gitignore
 ├── README.md           # 이 파일 (프로젝트 개요)
 ├── requirements.txt    # Python 의존성
@@ -19,8 +19,7 @@ week1/
 │   ├── README.md
 │   └── api_call.py
 └── GITHUB/             # GitHub 관련 문서
-    ├── README.md
-    └── folder1/
+    └── README.md
 ```
 
 ## 시작하기
