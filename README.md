@@ -1,6 +1,6 @@
-# hateslop 4기 실습 · Week 1
+# hateslop 4기 실습 · Week 2
 
-hateslop 4기 실습 1주차 폴더입니다.
+hateslop 4기 실습 2주차 폴더입니다.
 
 ## 개요
 
